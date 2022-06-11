@@ -39,9 +39,10 @@ src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&lo
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=devalbertomoiseis&show_icons=true&theme=synthwave" />
 
-  
+
 </p>
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertomoiseis&show_icons=true&theme=synthwave)
 
 ## &nbsp;Social Links
 
