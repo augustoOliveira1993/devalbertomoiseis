@@ -37,7 +37,7 @@ src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&lo
 
 <p align="left">
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=devalbertomoiseis&show_icons=true&theme=synthwave" />
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=devalbertomoiseis&langs_count=8show_icons=true&theme=synthwave" />
 
 
 </p>
