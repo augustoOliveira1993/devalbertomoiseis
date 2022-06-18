@@ -52,7 +52,7 @@ src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=devalbertomoiseis&show_icons=true&theme=synthwave" />
 </p>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertomoiseis&&langs_count=8&show_icons=true&theme=synthwave)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertomoiseis&langs_count=10&show_icons=true&theme=synthwave)
 
 ## &nbsp;Social Links
 
