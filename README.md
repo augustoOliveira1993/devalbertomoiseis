@@ -47,14 +47,16 @@ src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=devalbertomoiseis&show_icons=true&theme=synthwave" />
-</p>
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertomoiseis&langs_count=10&show_icons=true&theme=synthwave)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=devalbertomoiseis" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=devalbertomoiseis" height="170" alt="languages graph"  />
+</div>
+<br>  
+ 
 ## &nbsp;Social Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-moiseis/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alberto_moiseis/)
+
+
+
