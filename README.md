@@ -1,9 +1,9 @@
 <h1> Bora, Bora! Eu sou Alberto Moiseis! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 
-- 🔥 Desenvolvedor Web jr;
+- 🔥 Desenvolvedor Web;
 
-- 🔭 Atualmente atuando como Freelance ;
+- 🔭 Atuando como Freelance ;
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 Portifólio em construção ]();
 
