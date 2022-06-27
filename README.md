@@ -1,4 +1,4 @@
-<h1> Bora, Bora! Eu sou Alberto Moiseis! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Bora, Bora! Eu sou Alberto Moiseis!</h1>
 
 
 - 🔥 Desenvolvedor Web;
