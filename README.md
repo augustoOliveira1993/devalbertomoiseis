@@ -34,16 +34,7 @@ src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logo
 <img align="center" alt="GITHUB"
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <br>
-<br>
- 
-## 🛠 &nbsp;Stack dos Sonhos :v 
 
-<img align="center" alt="REACT" 
-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="Spring" 
-src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-<br> 
 
 
 ## ⚙️ &nbsp;GitHub Analytics
