@@ -1,6 +1,5 @@
 <h1> Bora, Bora! Eu sou Alberto Moiseis!</h1>
 
-
 - 🔥 Desenvolvedor Web;
 
 - 🔭 Atuando como Freelance ;
