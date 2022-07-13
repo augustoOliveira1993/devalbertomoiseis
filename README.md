@@ -35,8 +35,6 @@ src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logo
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <br>
 
-
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
