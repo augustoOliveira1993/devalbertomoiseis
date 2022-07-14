@@ -7,8 +7,8 @@
 - 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 Portifólio em construção ]();
 
 - 💬 Vamos conversar sobre projetos, tecnologias ou oportunidades de trabalho;
-
 <br>  
+
 ## 🛠 &nbsp;Tecnologias que Estudo
 <br>  
 <img align="center" alt="HTML5" 
