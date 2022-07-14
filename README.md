@@ -8,9 +8,9 @@
 
 - 💬 Vamos conversar sobre projetos, tecnologias ou oportunidades de trabalho;
 
-
+<br>  
 ## 🛠 &nbsp;Tecnologias que Estudo
-
+<br>  
 <img align="center" alt="HTML5" 
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS3" 
@@ -22,7 +22,7 @@ src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=boot
 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="Sass" 
 src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-
+<br>  
 
 <img align="center" alt="Mysql" 
 src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -31,10 +31,10 @@ src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logo
 <img align="center" alt="GITHUB"
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <br>
-
+<br>  
 
 ## ⚙️ &nbsp;GitHub Analytics
-
+<br>  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=devalbertomoiseis" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=devalbertomoiseis" height="150" alt="languages graph"  />
