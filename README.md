@@ -4,7 +4,8 @@
 
 - 🔭 Atuando como Freelance ;
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 Portifólio em construção ]();
+- 👨‍💻 Todos os meus projetos estão disponíveis em [ Portifólio ](https://devalbertomoiseis.netlify.app/);  
+
 
 - 💬 Vamos conversar sobre projetos, tecnologias ou oportunidades de trabalho;
 <br>  
