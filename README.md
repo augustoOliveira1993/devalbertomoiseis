@@ -1,16 +1,31 @@
-<h1> Bora, Bora! Eu sou Alberto Moiseis!</h1>
+<h1 align='center'>
+  Olá, sou Alberto Moiseis!
+  <br/>
+  Bem vindo a minha página :)
+</h1>
 
-- 🔥 Desenvolvedor Web;
+<p align='center'>
+  🔥 Desenvolvedor Web
+</p>
 
-- 🔭 Atuando como Freelance ;
+## 🌻 Sobre mim:
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [ Portifólio ](https://devalbertomoiseis.netlify.app/);  
+<p>
+  <em>
+    Tenho 30 anos, sou de Patos - Paraíba e atualmente estou em busca de uma experiência na área.
+  </em>
+</p>
 
-
+- 🌱 Atualmente estou aprendendo html, css, javascript, bootstrap, java e frameworks front-end;
+- 🚀 Programas que participo: Alura Nex One & Programa Start Capgemini & Programa AWS re/Start;
+- 📫 Meu email: contatoalbertomoiseis@gmail.com
+- 👨‍💻 [ Portifólio ](https://devalbertomoiseis.netlify.app/); 
 - 💬 Vamos conversar sobre projetos, tecnologias ou oportunidades de trabalho;
-<br>  
 
-## 🛠 &nbsp;Tecnologias que Estudo
+
+## ⚡ Tecnologias:
+
+Estas são algumas das tecnologias e ferramentas que trabalho:
 
 <img align="center" alt="HTML5" 
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -34,15 +49,12 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 <br>
 <br>  
 
-## ⚙️ &nbsp;GitHub Analytics
-<br>  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=devalbertomoiseis" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertomoiseis&layout=compact&theme=dracula&hide_border=false&"  alt="languages graph"  />
+## 📈 Minhas Estatísticas
 
-</div>
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=devalbertomoiseis&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertomoiseis&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
-<br>  
  
 ## &nbsp;Social Links
 
