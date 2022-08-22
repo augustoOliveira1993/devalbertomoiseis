@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 30 anos, sou de Patos - Paraíba e atualmente estou em busca de uma experiência na área.
+    Sou de Patos - Paraíba e atualmente estou em busca de uma experiência na área.
   </em>
 </p>
 
