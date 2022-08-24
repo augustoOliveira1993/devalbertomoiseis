@@ -55,7 +55,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=devalbertomoiseis&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertomoiseis&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
 
- 
+
 ## &nbsp;Social Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertomoiseisdev/)
