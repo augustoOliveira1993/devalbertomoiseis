@@ -53,7 +53,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=devalbertomoiseis&show_icons=true&hide_border=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertomoiseis&langs_count=12&hide_border=true&theme=dracula&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=devalbertomoiseis&show_icons=true&hide_border=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertomoiseis&langs_count=14&hide_border=true&theme=dracula&layout=compact) |
 
 
 ## &nbsp;Social Links
