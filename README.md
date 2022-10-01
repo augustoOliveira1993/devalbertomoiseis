@@ -4,9 +4,9 @@
   Bem vindo a minha página :)
 </h1>
 
-<p align='center'>
-  🔥 Desenvolvedor Web
-</p>
+
+## 🔥 Desenvolvedor Web
+
 
 ## 🌻 Sobre mim:
 
