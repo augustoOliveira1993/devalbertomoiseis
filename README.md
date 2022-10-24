@@ -17,7 +17,7 @@
 </p>
 
 - 🌱 Atualmente estou aprendendo html, css, javascript, bootstrap, java e frameworks front-end;
-- 🚀 Programas que participo: Alura Nex One & Educa360 - Foursys;
+- 🚀 Programas que participo: Alura Next One & Educa360 - Foursys;
 - 📫 Meu email: contatoalbertomoiseis@gmail.com
 - 👨‍💻 [ Portifólio ](https://devalbertomoiseis.netlify.app/); 
 - 💬 Vamos conversar sobre projetos, tecnologias ou oportunidades de trabalho;
