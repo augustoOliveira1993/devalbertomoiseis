@@ -19,21 +19,14 @@ const aboutMe = {
     'Dota 2',
     'One Piece'
   ],
-  softSkills: [
-    'Comunicação',
-    'Trabalho em Equipe',
-    'Flexibilidade',
-    'Proatividade',
-    'Criatividade',
-    'Empatia'
-  ]
 };
 
 function contactMe() {
   return {
     email: 'contatoalbertomoiseis@gmail.com',
     linkedin: 'https://www.linkedin.com/in/albertomoiseisdev/',
-    Portfolio: 'https://devalbertomoiseis.netlify.app/',
+    portfolio: 'https://devalbertomoiseis.netlify.app/',
+    curriculo: 'https://docs.google.com/document/d/1c54ZkvNfrC6e3Z9ANkGpwmQ31aFRqHONzkNBs8-ebQQ/edit?usp=sharing',
   }
 }
 ```
@@ -41,28 +34,18 @@ function contactMe() {
 
 ## ⚡ Tecnologias:
 
+
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-<img align="center" alt="HTML5" 
-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS3" 
-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="Bootstrap" 
-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+| Preprocessor Scripting Lang | Programming Lang |
+| :--- | ---: |
+| ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) |![JavaScript](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+| **Frameworks, Platforms and Libraries** | **Databases** |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Hosting** | **Design**|
+| ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
-<img align="center" alt="JAVASCRIPT" 
-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="Sass" 
-src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<br>  
 
-<img align="center" alt="Mysql" 
-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="Java" 
-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img align="center" alt="GITHUB"
-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-<br>
 <br>  
 
 ## 📈 Minhas Estatísticas 
