@@ -9,28 +9,10 @@
 
 <p> <br> <p/>
 
-```JavaScript
-const aboutMe = {
-  name: 'Alberto Moiseis',
-  age: '31',
-  rank: 'Desenvolvedor Web',
-  country: 'Brazil',
-  hobbies: [
-    'Dota 2',
-    'One Piece'
-  ],
-};
-
-function contactMe() {
-  return {
-    email: 'contatoalbertomoiseis@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/albertomoiseisdev/',
-    portfolio: 'https://devalbertomoiseis.netlify.app/',
-    curriculo: 'https://docs.google.com/document/d/1c54ZkvNfrC6e3Z9ANkGpwmQ31aFRqHONzkNBs8-ebQQ/edit?usp=sharing',
-  }
-}
-```
-
+:technologist: Desenvolvedor Front End - [Portfólio](https://devalbertomoiseis.netlify.app/);<br> <br>
+:man_student: Estudante de Pós - Graduação em "Tecnologia Java" na Anhanguera Educacional;<br> <br>
+:handshake: Gosto de trabalhar em equipe e ajudar a comunidade dev a crescer - [Grupo - Facebook](https://www.facebook.com/groups/2249002278688933);<br>
+<br>
 
 ## ⚡ Tecnologias:
 
